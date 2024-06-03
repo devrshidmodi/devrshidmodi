@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devrshi Modi, and I'm a third year computer science student at the University of Waterloo.
+- 👋 Hi, I’m Devrshi Modi, and I'm studying Computer Science!
 - 👀 I’m interested in Data Science and Machine Learning!
 
 
